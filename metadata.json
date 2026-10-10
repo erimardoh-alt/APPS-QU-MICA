@@ -1,0 +1,6 @@
+{
+  "name": "BicarbonatoLab - Trivia Científica de NaHCO₃",
+  "description": "Aplicación interactiva de trivia científica sobre el Bicarbonato de Sodio (NaHCO₃) con niveles de dificultad progresivos, explicaciones químicas profundas y laboratorio virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
